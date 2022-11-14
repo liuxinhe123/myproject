@@ -5,6 +5,9 @@ export default class App extends Component {
         return (
             <div>
                 <h3>App组件111</h3>
+                <p>addTodo功能</p>
+                <p>delTodo功能</p>
+                <p>filterodo功能</p>
             </div>
         )
     }
